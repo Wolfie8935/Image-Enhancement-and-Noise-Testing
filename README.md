@@ -2,6 +2,8 @@
 
 ## My model architecture ![model_](https://github.com/user-attachments/assets/7e2aa669-e2e5-4012-89bf-cc88e4882de0)
 
+python version 3.11
+
 ## Results
 
 ![image](https://github.com/user-attachments/assets/35e9cfdc-782d-40eb-8318-1e40191fc54e)
